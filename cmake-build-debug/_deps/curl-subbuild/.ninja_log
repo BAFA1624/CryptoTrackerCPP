@@ -1,0 +1,21 @@
+# ninja log v5
+912	915	1649612988664323944	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	6283262626aed27d
+12	909	1649612988660990592	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a5882c80bb203cb8
+909	912	1649612988664323944	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	da10fb5390ead952
+927	930	1649612988680990707	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	60129aa576ddc94c
+918	921	1649612988670990649	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	98996842df385598
+927	930	1649612988680990707	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	60129aa576ddc94c
+915	918	1649612988667657294	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	8a489213063fc90d
+0	12	1649612987760985398	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	66465c5220fd89e3
+12	909	1649612988660990592	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a5882c80bb203cb8
+912	915	1649612988664323944	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	6283262626aed27d
+924	927	1649612988677657355	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	4d135ca5f3bfea4d
+909	912	1649612988664323944	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	da10fb5390ead952
+924	927	1649612988677657355	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	4d135ca5f3bfea4d
+927	930	1649612988680990707	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	60129aa576ddc94c
+915	918	1649612988667657294	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	8a489213063fc90d
+918	921	1649612988670990649	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	98996842df385598
+927	930	1649612988680990707	CMakeFiles/curl-populate-complete	60129aa576ddc94c
+0	12	1649612987760985398	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	66465c5220fd89e3
+921	924	1649612988674324000	/home/ben/Desktop/gitrepos/CryptoTracker/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	82838c87615619a5
+921	924	1649612988674324000	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	82838c87615619a5
